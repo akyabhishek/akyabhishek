@@ -6,7 +6,7 @@ Hey! I'm Abhishek Kumar Yadav, a passionate Java Full Stack Developer from India
 
 ![akyabhishek's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akyabhishek&theme=dark&hide_border=true)
 
-![akyabhishek's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akyabhishek&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![akyabhishek's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akyabhishek&theme=dark&show_icons=true&hide_border=true&layout=donut)
 
 
 
