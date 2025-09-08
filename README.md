@@ -1,6 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
-### GitHub Stats
+## GitHub Stats
+<hr>
 ![akyabhishek's Stats](https://github-readme-stats.vercel.app/api?username=akyabhishek&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ![akyabhishek's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akyabhishek&theme=dark&hide_border=true)
