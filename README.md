@@ -4,14 +4,15 @@ Hey! I'm Abhishek Kumar Yadav, a passionate Java Full Stack Developer from India
 
 ## Skills
 
-- Java, Spring Boot, Hibernate, Python
-- JavaScript, TypeScript, React,
-- HTML5, CSS3, Bootstrap
-- RESTful APIs, Microservices
-- SQL, MySQL, SQL Server
-- Git, GitHub, CI/CD
-- Docker, Kubernetes
-- Agile & Scrum
+**Backend:** Java, Spring Boot, Hibernate, Microservices, REST APIs
+
+**Frontend:** ReactJS, TypeScript, ThreeJS, Tailwind CSS
+
+**Cloud:** Azure, Google Cloud Platform
+
+**Databases:** MySQL, SQL Server, Firebase
+
+**Tools:** Git, Docker, Maven, GitHub Actions
 
 ## GitHub Stats
 
