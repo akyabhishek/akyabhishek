@@ -8,15 +8,18 @@ Building scalable Java/Spring microservices and AI-assisted developer tools.
 
 ## Skills
 
-**Backend:** Java, Spring Boot, Hibernate, Microservices, REST APIs, System Design, CI/CD
+| Area           | Technologies                                                          |
+| -------------- | --------------------------------------------------------------------- |
+| Backend (Core) | Java, Spring Boot, Hibernate, Microservices, REST APIs, System Design |
+| Frontend       | React, TypeScript, Three.js, Tailwind CSS                             |
+| Cloud          | Azure, Google Cloud                                                   |
+| Databases      | MySQL, SQL Server, Firebase                                           |
+| DevOps & Tools | Docker, Maven, Git, GitHub Actions, CI/CD, Prompt Engineering         |
 
-**Frontend:** ReactJS, TypeScript, ThreeJS, Tailwind CSS
+## Certifications
 
-**Cloud:** Azure, Google Cloud Platform
-
-**Databases:** MySQL, SQL Server, Firebase
-
-**Tools:** Git, Docker, Maven, GitHub Actions, Prompt Engineering
+- GH-300
+- CCA-F
 
 ## Connect
 
